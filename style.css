@@ -4,6 +4,7 @@ body{
 .main{
     border: 3px solid black;
     height: 500px;
+    width:400px;
     margin-top: 100px;
     background: black;
     background-color: crimson;
